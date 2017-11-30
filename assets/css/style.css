@@ -328,35 +328,6 @@ input[type=submit] {
     }
   }
 
-    @media only screen and (max-width:768px){
-      .main-secton, .sidebar{
-        max-width: 100%;
-      }
-
-      #main-container{
-        overflow:auto;
-      }      
-
-      .sidebar{
-        margin-bottom: 40px;
-      }
-
-      .work{
-        width:47%;
-        margin-bottom: 15px;
-      }
-
-      .work:nth-child(even){
-        margin-right:0;
-      }
-
-      .work:nth-child(odd){
-        float:right;
-      }
-
-      .auth-image{
-        width: 50px;
-      }
-  }
+ 
 
   
