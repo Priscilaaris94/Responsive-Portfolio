@@ -4,7 +4,7 @@ A website about my web and application development knowledge. Contains project I
 
 # Technologies used
 
-HTML
-CSS
-EXPRESS
+HTML,
+CSS,
+EXPRESS,
 NODE
