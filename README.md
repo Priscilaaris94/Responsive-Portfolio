@@ -2,7 +2,8 @@
 
 A website about my web and application development knowledge. Contains project I have worked on.
 
-#Technologies used
+# Technologies used
+
 HTML
 CSS
 EXPRESS
